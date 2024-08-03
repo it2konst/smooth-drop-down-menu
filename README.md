@@ -44,7 +44,7 @@ You can use this drop-down menu in your own projects by including the HTML, CSS,
 6. Style the menu to match your project's design by modifying the CSS file (`style.css`).
 
 ## Demo
-You can see a live demo of the drop-down menu [here](https://your-demo-link.com).
+You can see a live demo of the drop-down menu [here](https://it2konst.github.io/smooth-drop-down-menu/).
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open a pull request or create an issue.
